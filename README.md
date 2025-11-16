@@ -5,7 +5,7 @@
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Made with Pandas](https://img.shields.io/badge/Made%20with-Pandas-150458?logo=pandas)](https://pandas.pydata.org/)
 [![Data Source](https://img.shields.io/badge/Data-Yahoo%20Finance-purple)](https://finance.yahoo.com/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Axelj00/Norwegian-Energy-Stocks-Dividend-Behavior-Analysis/graphs/commit-activity)
+Norwegian-Energy-Stocks-Dividend-Behavior-Analysis/graphs/commit-activity)
 
 A quantitative analysis of price behavior around dividend events for Norwegian energy stocks, examining 62 dividend cycles across Equinor, Aker BP, and Vår Energi over 5 years (2020-2025).
 
